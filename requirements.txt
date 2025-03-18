@@ -1,0 +1,14 @@
+fastapi
+pydantic
+google-generativeai
+python-dotenv
+langchain>=0.2.2
+langchain-community
+langchain-core
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+uvicorn
+playwright
+psutil
+orjson
