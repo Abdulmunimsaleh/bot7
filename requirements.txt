@@ -10,5 +10,4 @@ sentence-transformers
 faiss-cpu
 uvicorn
 playwright
-psutil
-orjson
+beautifulsoup4
